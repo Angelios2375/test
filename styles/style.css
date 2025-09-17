@@ -1,7 +1,8 @@
 html {
     font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
-    font-family: placeholder: здесь должно быть имя шрифта из Google fonts
+    font-family: "Bitcount Prop Double Ink", system-ui;
 }
+
 h1 {
     font-size: 60px;
     text-align: center;
